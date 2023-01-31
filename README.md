@@ -1,0 +1,2 @@
+# testowe_repozytorium
+Projekt zaliczeniowy na potrzeby przedmiotu Zarządzanie przedsięwzięciami informatycznymi
